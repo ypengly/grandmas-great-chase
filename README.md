@@ -25,7 +25,7 @@
 
 ## 🎮 Play Now
 
-**[Play Grandma's Great Chase in your browser →](https://yourusername.github.io/grandmas-great-chase/)**
+**[Play Grandma's Great Chase in your browser →](https://ypengly.github.io/grandmas-great-chase/)**
 
 *No downloads, no installations, no sign-ups — just open and play!*
 
